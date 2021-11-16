@@ -41,4 +41,4 @@ jobs:
         with:
           name: apk-debug
           path: |
-          ./app/build/outputs/apk/debug/apk-debug.apk ./app/build/outputs/apk/debug/output-metadata.json
+          ./app/build/outputs/apk/debug/apk-debug.apk
